@@ -6,7 +6,7 @@ const getData = async () => {
 
 // Actions
 
-const DISPLAY_GREETINGS = 'hello-world-rails-react/arrReducer/DISPLAY_GREETINGS';
+const DISPLAY_GREETINGS = 'hello-rails-react/appReducer/DISPLAY_GREETINGS';
 
 
 // Reducers

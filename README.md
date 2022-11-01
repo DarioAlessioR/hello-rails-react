@@ -1,15 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# My Budget App
+# Set up a "Hello world" project as one app with Webpack
 
-> This is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+Implement a connection between a Ruby on Rails back-end and React front-end.
 
 ## Built With
 
 - Ruby
 - Ruby on Rails
 - HTML
-- CSS
-- Bootstrap
 - PostgreSQL
 - Git & Github
 
@@ -19,14 +17,11 @@
 2. Follow these steps on your console to properly clone this repository on your desktop:
 
 ```
-$ git clone https://github.com/DarioAlessioR/my_budget
+$ git clone https://github.com/DarioAlessioR/hello-rails-react.git
 $ code .
 ```
 
-3. At the command line, run `rails s` to run the app.
-
-## Live demo
-Please visit the app page in Heroku: https://limitless-tor-75096.herokuapp.com/
+3. At the command line, run ./bin/dev to run the app.
 
 
 ## Author
@@ -48,8 +43,6 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Based on the [design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=&&&) by [Gregoire Vella](http://linkedin.com/company/minimalapps)
 - Hat tip to anyone whose code was used
 - Microverse
 - My supportive family 😊
